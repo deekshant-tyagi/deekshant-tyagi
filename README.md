@@ -1,10 +1,6 @@
 <h1 align="center">Hii , I'm Deekshant Tyagi</h1>
 <h3 align="center"></h3>
-<img align="right" alt="coding" width="400" 
-
-
 - 🌱 X P L O R I N G !
-
 - 📫 How to reach me **tyash314@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
