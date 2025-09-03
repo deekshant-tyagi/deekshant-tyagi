@@ -9,7 +9,7 @@
 - 👾 Exploring WEB 3 & AI.
 
 <h3 align="left">Connect with me:</h3>
-  <a href="https://deekshanttyagi.netlify.app" target="blank">
+  <a href="https://deekshantworks.netlify.app" target="blank">
   <img src="https://img.shields.io/badge/Portfolio-%230077B5.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 <br/>
