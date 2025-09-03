@@ -2,18 +2,23 @@
 <h3 align="center"></h3>
 - 🌱 X P L O R I N G !
 <br/>
-- 👾 DSA & MERN STACK DEV
+- 👾 MERN STACK DEV
 <br/>
 - 👾 Solved 350+ DSA problems in JAVA
 <br/>
 - 👾 Exploring WEB 3 & AI.
 
 <h3 align="left">Connect with me:</h3>
+  <a href="https://deekshanttyagi.netlify.app" target="blank">
+  <img src="https://img.shields.io/badge/Portfolio-%230077B5.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+<br/>
 <p align="left">
-<a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yaaasssshhhh" height="30" width="40" /></a>
+<a href="https://twitter.com/_voiddotdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yaaasssshhhh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/deekshanttyagi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deekshanttyagi" height="30" width="40" /></a>
 <a href="https://instagram.com/_yashtyagiii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_yashtyagiii" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/deekshanttyagi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="deekshanttyagi" height="30" width="40" /></a>
+
 </p>
 
 <h2>🚀 Languages and Tools I Use</h2>
@@ -38,4 +43,3 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deekshant-tyagi&" alt="deekshant-tyagi" /></p>
